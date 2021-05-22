@@ -7,3 +7,9 @@ https://nbviewer.jupyter.org/github/mcsiva/Python/blob/main/Choropleth%20World%2
 
 2. Classification HR Analytics - EDA, Model training & prediction
 https://nbviewer.jupyter.org/github/mcsiva/Python/blob/main/Classification_HR_Analytics.ipynb
+
+
+
+
+5. Product Segmentation - Model building in Azure ML cloud - Towclass BoostedTree with Onevsall Multiclass classifier and performance comparison with other models.
+  https://gallery.cortanaintelligence.com/Experiment/MultiClass-label-prediction-for-product-segment-Kaggle-Dataset
