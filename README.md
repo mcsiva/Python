@@ -29,5 +29,5 @@ https://nbviewer.jupyter.org/github/mcsiva/Python/blob/main/Classification_HR_An
   e XGB model based on hyperparameter finetuning achieved 97% accuracy with 97.1% mean TPR. (marginal improvemnt after finetuning)
   f. SVM classifier was used to predict the result wtih final test data.
 
-6. Product Segmentation - Model building in Azure ML cloud - Towclass BoostedTree with Onevsall Multiclass classifier and performance comparison with other models.
+5. Product Segmentation - Model building in Azure ML cloud - Towclass BoostedTree with Onevsall Multiclass classifier and performance comparison with other models.
   https://gallery.cortanaintelligence.com/Experiment/MultiClass-label-prediction-for-product-segment-Kaggle-Dataset
