@@ -14,6 +14,9 @@ Python files - ML , EDA, Exercises
    Based on higher roc_auc_score - *Decision tree model* was used to get the *feature importances*:
       City_development Index, Gender, Enrolled University were predicted as important features for Employee Attrition
    Same model is used for *predicting the outcomes* of the test set.
+   
+   By Applying *Feature selection techniques (ANOVA, Recursive Feat selection)*- we have reduced the number of features from 18 to 10 significant features based on *p-values.*
+   *Decision tree classifier* model performance has increase in *accuracy score from (72% to 74.2 %)* and improved *recall score for class 1(attrition) of 44%*
   
    Below is nbviewer link of the *jupyter notebook:*
    https://nbviewer.jupyter.org/github/mcsiva/Python/blob/main/Classification_HR_Analytics.ipynb
