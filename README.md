@@ -51,3 +51,5 @@ Python files - ML , EDA, Exercises
    - The data is related with direct marketing campaigns of a Portuguese banking institution.
    - Features are related to customer credit status, education, job background, previous marketing detail campaigns and current campaign detail with Target outcome for current campaign deposit ('Y' or 'N').
    - *target variable:* Marital status, education, previous campaign ('previous') outcome and A/c Balance are highly correlated with each other (atleast 0.05) -  which can be applied for feature selection to build model for prediction and measure performance.
+   - Below link for viewing the notebook incase not visible in github:
+   - https://nbviewer.jupyter.org/github/mcsiva/Python/blob/main/Bank_Deposit_marketing_campaing_dataAnalysis-1.ipynb
