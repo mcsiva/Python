@@ -56,3 +56,4 @@ Python files - ML , EDA, Exercises
    - so we cannot reject the Null Hypothesis of similarity in Model performances
    - Below link for viewing the notebook incase not visible in github:
    - https://nbviewer.jupyter.org/github/mcsiva/Python/blob/main/Bank_Deposit_marketing_campaing_dataAnalysis-1.ipynb
+   - https://nbviewer.jupyter.org/github/mcsiva/Python/blob/main/Bank_Deposit_marketing_campaing_Model_train_performance.ipynb
