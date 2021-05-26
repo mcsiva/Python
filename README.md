@@ -46,10 +46,13 @@ Python files - ML , EDA, Exercises
    Refer below link to *Microsoft Azure ML model* comparison published in *Azure ML Gallery*
    https://gallery.cortanaintelligence.com/Experiment/MultiClass-label-prediction-for-product-segment-Kaggle-Dataset
 
-6. **Bank Deposit marketing campaign** - Data Analysis
+6. **Bank Deposit marketing campaign** - Data Analysis and *Model train - ***Performance comparison of class1 prediction - RF and XGB Classifier***
    - *Pandas profiling* , *Pearson coefficient correlation heatmap*, *Label encoding and ordinal (ranked) encoding* applied and feature correlation inference done.
    - The data is related with direct marketing campaigns of a Portuguese banking institution.
    - Features are related to customer credit status, education, job background, previous marketing detail campaigns and current campaign detail with Target outcome for current campaign deposit ('Y' or 'N').
    - *target variable:* Marital status, education, previous campaign ('previous') outcome and A/c Balance are highly correlated with each other (atleast 0.05) -  which can be applied for feature selection to build model for prediction and measure performance.
+   - we have calculated confusion matrix of RFClassifier class1 prediction and XGBClassifier class1 prediction
+   - The McNemars test results in p-value of 0.45, which is signifacntly higher than considered alpha = 0.05 
+   - so we cannot reject the Null Hypothesis of similarity in Model performances
    - Below link for viewing the notebook incase not visible in github:
    - https://nbviewer.jupyter.org/github/mcsiva/Python/blob/main/Bank_Deposit_marketing_campaing_dataAnalysis-1.ipynb
